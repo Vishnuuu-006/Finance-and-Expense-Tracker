@@ -12,7 +12,7 @@ This project is a finance/expense tracking app UI designed entirely in Figma.
 https://www.figma.com/proto/DOfpOcACJIbbBoQqbkdP9e/Finance?node-id=36-145&t=X2Rv1R4I887BLlo2-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=36%3A145
 
 # Screenshots
-See the screenshots folder below.
+The Screenshots has been uploaded with every pages.
 
 # Workflow of this Design (in PDF File)
 
